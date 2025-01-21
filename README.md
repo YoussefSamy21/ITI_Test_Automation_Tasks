@@ -1,0 +1,1 @@
+### This repository contains the test automation assignments completed during my 9-month Software Testing and Quality Assurance program at ITI. It showcases my understanding and practical experience with various tools and techniques in test automation
