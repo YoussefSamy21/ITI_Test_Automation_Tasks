@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3eef7de-5aae-403b-a02b-98acaba17948" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uPi1WYqnjcNT2HzB6uG9aY1Vv4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Home.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.SelectDocumentTest.executor": "Run",
+    "TestNG.SelectDocumentTest.validateFreeDocumentsCount.executor": "Run",
+    "TestNG.SelectDocumentTest.validateFreeDocumentsNames.executor": "Run",
+    "TestNG.SelectDocumentTest.validatePricedDocumentsCount.executor": "Run",
+    "TestNG.SelectDocumentTest.validatePricedDocumentsNames.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.SelectDocumentTest">
+    <configuration name="SelectDocumentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task2_POM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectDocumentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDocumentTest.validateFreeDocumentsCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task2_POM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectDocumentTest" />
+      <option name="METHOD_NAME" value="validateFreeDocumentsCount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDocumentTest.validateFreeDocumentsNames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task2_POM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectDocumentTest" />
+      <option name="METHOD_NAME" value="validateFreeDocumentsNames" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDocumentTest.validatePricedDocumentsCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task2_POM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectDocumentTest" />
+      <option name="METHOD_NAME" value="validatePricedDocumentsCount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDocumentTest.validatePricedDocumentsNames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task2_POM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectDocumentTest" />
+      <option name="METHOD_NAME" value="validatePricedDocumentsNames" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SelectDocumentTest" />
+        <item itemvalue="TestNG.SelectDocumentTest.validatePricedDocumentsNames" />
+        <item itemvalue="TestNG.SelectDocumentTest.validateFreeDocumentsNames" />
+        <item itemvalue="TestNG.SelectDocumentTest.validatePricedDocumentsCount" />
+        <item itemvalue="TestNG.SelectDocumentTest.validateFreeDocumentsCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3eef7de-5aae-403b-a02b-98acaba17948" name="Changes" comment="" />
+      <created>1742156397640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742156397640</updated>
+    </task>
+    <servers />
+  </component>
+</project>
